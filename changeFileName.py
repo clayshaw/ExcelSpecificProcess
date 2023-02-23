@@ -32,7 +32,7 @@ root.title("Excel")
 
 lab1 = Label(root,text='請輸入資料夾位置(絕對路徑)')
 lab1.place(relx=0.3,rely=0.1)
-lab2 = Label(root,text='範例:  C:\\Users\\excel\\data')
+lab2 = Label(root,text='範例:  C:\\Users\\path\\folder')
 lab2.place(relx=0.3,rely=0.2)
 
 inp1 = Entry(root)
