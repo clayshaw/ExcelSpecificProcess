@@ -5,3 +5,4 @@
   * **xlsxExcel.exe**執行後會直接修改原檔案
 # Change File Name 
  * 將資料夾內所有檔名為小寫的檔案改為大寫
+ * 例如:filename.jpg.lockbit 變為 FILENAME.jpg
